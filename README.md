@@ -1,4 +1,4 @@
-Made from Visual Studio 2022
+Made from Visual Studio Community 2022
 Use only for Personal Use
 
 
@@ -7,4 +7,5 @@ Use only for Personal Use
 * Hidden to TaskBar
 * Visible to Notif Bar
 * You can Personalize
+* Tagalog and English Language
   
