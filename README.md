@@ -1,5 +1,4 @@
 Made from Visual Studio Community 2022
-Use only for Personal Use
 
 
 * 10 Second Detection of Idle PC
