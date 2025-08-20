@@ -1,0 +1,17 @@
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\bin\Release\net9.0-windows\CountDownPC.exe
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\bin\Release\net9.0-windows\CountDownPC.deps.json
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\bin\Release\net9.0-windows\CountDownPC.runtimeconfig.json
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\bin\Release\net9.0-windows\CountDownPC.dll
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\bin\Release\net9.0-windows\CountDownPC.pdb
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.MainFrm.resources
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.vbproj.GenerateResource.cache
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.AssemblyInfoInputs.cache
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.AssemblyInfo.vb
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.vbproj.CoreCompileInputs.cache
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.dll
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\refint\CountDownPC.dll
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.pdb
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.genruntimeconfig.cache
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\ref\CountDownPC.dll
+C:\Users\Akchimonji\Desktop\Visual StudioShit\CountDownPC\obj\Release\net9.0-windows\CountDownPC.SprFrm.resources
