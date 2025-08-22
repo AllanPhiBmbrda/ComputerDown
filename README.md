@@ -15,7 +15,7 @@ Installation??
 * Copy the Release Folder from /bin/
 * Paste it to your desired folder location
 * Create the shortcut of EXE file
-* Put is in APPDATA/Start Up the ShortCut.ink of the apps
+* Cut and Paste your ShortCut.ink of the apps to /APPDATA/StartUp
 * Restart your PC and Test it
   
   
